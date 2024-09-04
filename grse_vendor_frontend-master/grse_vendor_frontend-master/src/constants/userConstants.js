@@ -1,0 +1,11 @@
+export const USER_VENDOR = 1;
+export const USER_GRSE_DRAWING = 2;
+export const USER_GRSE_QAP = 3;
+export const USER_GRSE_FINANCE = 15;
+export const USER_GRSE_PURCHASE = 17;
+export const USER_GRSE_HR = 18;
+export const USER_ADMIN = 5;
+export const USER_SUPER_ADMIN = 6;
+export const USER_PPNC_DEPARTMENT = 14;
+export const ASSIGNER = 1;
+export const STAFF = 2;
